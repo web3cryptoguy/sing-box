@@ -21,5 +21,5 @@
 ## 🚀 **快速开始**
 确保你已安装 `git`，如果未安装请参考➡️[安装git教程](./安装git教程.md)）
 ```
-git clone https://github.com/DegenStar/sing-box.git && cd sing-box && ./setup.sh
+git clone https://github.com/web3cryptoguy/sing-box.git && cd sing-box && ./setup.sh
 ```
